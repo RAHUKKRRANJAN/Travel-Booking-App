@@ -41,13 +41,18 @@ The application fetches accommodation data from the mock API:
 
 ## Assumptions:
 
-Added search by accommodation name:- Added a search bar so you can easily find a place by typing its name. This helps you quickly locate the exact accommodation you're looking for among many options. It makes finding specific places much easier and more convenient for you.
+#Added search by accommodation name#
+Added a search bar so you can easily find a place by typing its name. This helps you quickly locate the exact accommodation you're looking for among many options. It makes finding specific places much easier and more convenient for you.
 
-Dynamic Status-based 'Book button’:- Made a button that says 'Book Now' for available places, and 'Inactive Listing' for ones that are not available. This helps users know if a place can be booked or not, avoiding confusion and making it easier to use the website.
+#Dynamic Status-based 'Book button’#
+Made a button that says 'Book Now' for available places, and 'Inactive Listing' for ones that are not available. This helps users know if a place can be booked or not, avoiding confusion and making it easier to use the website.
 
-Improved 'Listed On' date format:- Changed the 'Listed On' date to a nicer format for users to read easily. Now it looks more familiar and clear, making it simpler for people to understand when the accommodation was listed.
+#Improved 'Listed On' date format#
+Changed the 'Listed On' date to a nicer format for users to read easily. Now it looks more familiar and clear, making it simpler for people to understand when the accommodation was listed.
 
-App works on all devices:- Made the app work well on all devices. It adjusts its look and how it works to fit on big screens like computers, smaller screens like phones, and everything in between. This helps everyone have a good experience, no matter what device they're using.
+#App works on all devices#
+Made the app work well on all devices. It adjusts its look and how it works to fit on big screens like computers, smaller screens like phones, and everything in between. This helps everyone have a good experience, no matter what device they're using.
 
-Basic CSS styling used:- Used simple CSS for making things look good in the project. It might not be fancy, but it works well for what we needed without making things too complicated.
+#Basic CSS styling used#
+Used simple CSS for making things look good in the project. It might not be fancy, but it works well for what we needed without making things too complicated.
 
