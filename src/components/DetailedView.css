@@ -1,0 +1,35 @@
+.detailed-view-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.accommodation-details {
+  display: flex;
+  align-items: center;
+}
+
+.accommodation-image {
+  width: 300px;
+  height: 200px;
+  border-radius: 8px;
+  margin-right: 20px;
+}
+
+.details {
+  flex: 1;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 8px;
+}
