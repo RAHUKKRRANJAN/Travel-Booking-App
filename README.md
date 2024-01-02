@@ -39,12 +39,12 @@ The application fetches accommodation data from the mock API:
   - `App.js`: Main component handling routes and layout
   - `index.js`: Entry point for the React application
 
-## Assumptions:
+## Assumptions:-
 
 ## Added search by accommodation name ##
 Added a search bar so you can easily find a place by typing its name. This helps you quickly locate the exact accommodation you're looking for among many options. It makes finding specific places much easier and more convenient for you.
 
-## Dynamic Status-based 'Book button’##
+## Dynamic Status-based 'Book button’ ##
 Made a button that says 'Book Now' for available places, and 'Inactive Listing' for ones that are not available. This helps users know if a place can be booked or not, avoiding confusion and making it easier to use the website.
 
 ## Improved 'Listed On' date format ##
